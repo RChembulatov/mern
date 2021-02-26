@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://user-todo:Password12345@cluster0.nzwzf.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
